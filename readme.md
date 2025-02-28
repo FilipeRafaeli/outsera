@@ -10,7 +10,7 @@
 3. Instale as dependências com: `pip install -r requirements.txt`
 
 ## Como Rodar
-1. Execute a aplicação: `python run.py`
+1. Execute a aplicação: `python main.py`
 2. Acesse o endpoint: `http://127.0.0.1:5000/api/produtoras/intervalo_premiacoes`
 
 ## Como Executar os Testes
